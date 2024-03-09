@@ -1,3 +1,0 @@
-//hello index
-//venkat
-//ram
